@@ -18,6 +18,6 @@ I am Amirhossein Zarei, a dedicated and passionate junior frontend developer wit
 
 With a solid foundation in HTML, CSS, and JavaScript, I possess the technical skills necessary to bring designs to life. I am well-versed in modern front-end libraries and frameworks like Reactjs and Nextjs, enabling me to build dynamic and responsive web applications. I constantly stay updated with the latest industry trends and best practices to ensure that my work is at the forefront of web development.
 
-Beyond technical expertise, I am a highly collaborative team player, always eager to contribute to a positive and creative work environment. I thrive in a fast-paced setting and am comfortable managing multiple projects simultaneously, while maintaining attention to detail and delivering high-quality results.
+Beyond technical expertise, I am a highly collaborative team player, always eager to contribute to a positive and creative work environment.
 
 As a junior frontend developer, I am excited to contribute my skills and creativity to projects that make a positive impact. I am open to learning from experienced developers and mentors who can help me refine my craft and take my skills to the next level.
