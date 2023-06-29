@@ -1,23 +1,33 @@
-### Hi there 👋
+<h2 align="center">Painting pixels with code: Igniting creativity as a  frontend enthusiast.</h2>
 
-<!--
-**AmirZarei2002/AmirZarei2002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+###
 
-Here are some ideas to get you started:
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AmirZarei2002&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-I am Amirhossein Zarei, a dedicated and passionate junior frontend developer with a strong drive to create engaging and user-friendly web experiences. At 21 years old, I bring a fresh perspective and a relentless pursuit of excellence to every project I undertake.
+###
 
-With a solid foundation in HTML, CSS, and JavaScript, I possess the technical skills necessary to bring designs to life. I am well-versed in modern front-end libraries and frameworks like Reactjs and Nextjs, enabling me to build dynamic and responsive web applications. I constantly stay updated with the latest industry trends and best practices to ensure that my work is at the forefront of web development.
+<div align="left">
+  <img src="https://cdn.simpleicons.org/html5/E34F26" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/css3/1572B6" height="40" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nextjs" height="40" alt="nextjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="40" alt="tailwindcss logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/mui/007FFF" height="40" alt="materialui logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/bootstrap/7952B3" height="40" alt="bootstrap logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/nodedotjs/339933" height="40" alt="nodejs logo"  />
+</div>
 
-Beyond technical expertise, I am a highly collaborative team player, always eager to contribute to a positive and creative work environment.
-
-As a junior frontend developer, I am excited to contribute my skills and creativity to projects that make a positive impact. I am open to learning from experienced developers and mentors who can help me refine my craft and take my skills to the next level.
+###
